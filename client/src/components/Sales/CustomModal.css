@@ -1,0 +1,9 @@
+.custom-modal-backdrop {
+    background-color: transparent !important;
+  }
+  
+  .custom-modal-content {
+    background-color: white;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
